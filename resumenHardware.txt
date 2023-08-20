@@ -1,0 +1,3 @@
+Ejemplo 1: RAM
+Ejemplo 2: ROM
+Ejemplo 3: Memoria Cache

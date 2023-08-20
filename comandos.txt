@@ -1,0 +1,300 @@
+    1  pwd
+    2  cd OneDrive/Escritorio
+    3  mkdir Informes
+    4  rmdir Informes
+    5  mkdir Informes
+    6  touch InformeAnual.xls
+    7  ls
+    8  ls Informes
+    9  cd Informes
+   10  clear
+   11  pwd
+   12  cd Escritorio
+   13  cd OneDrive/Escritorio
+   14  clear
+   15  pwd
+   16  rmdir Informes
+   17  cd /c/Users/ynrav/OneDrive/Escritorio/
+   18  clear
+   19  pwd
+   20  cd /c/Users/ynrav/
+   21  clear
+   22  pwd
+   23  cd OneDrive/Escritorio/
+   24  mkdir Informes
+   25  cd Informes
+   26  touch informeAnual.xls
+   27  ls 
+   28  mkdir Auditoria
+   29  cd Auditoria/
+   30  touch auditoria.xls
+   31  touch reporteConsolidado.xls
+   32  ls
+   33  rm -r Auditoria
+   34  rm -Ausitoria
+   35  rm -Auditoria
+   36  cd Informes/
+   37  cd Escritorio/Informes/
+   38  cd ~/OneDrive/Escritorio/Informes/
+   39  rm -r Auditoria
+   40  mkdir auditoria
+   41  touch auditoria.xls
+   42  touch reporteConsolidado.xls
+   43  ls
+   44  mv auditoria.xls auditoria
+   45  cd auditoria/
+   46  ls
+   47  clear
+   48  pwd
+   49  pwd
+   50  cd Escritorio[200~Escritorio
+   51  cd C:\Users\ynrav\OneDrive\Escritorio
+   52  clear
+   53  mkdir DH
+   54  cd DH
+   55  mkdir Peliculas
+   56  cd Peliculas
+   57  mkdir Infantiles
+   58  mkdir Accion Terror Comedia Romanticas
+   59  ls
+   60  cd Infantiles
+   61  touch Intenzamente.txt "El juego del miedo.xls" "Rapido y furioso.pdf" Titanic.jpg
+   62  ls
+   63  cd ../Accion
+   64  touch "Smooth criminal.txt" "Diario de una pasion.js" "El hexorcista.xls" Cars.jpg
+   65  cd ../Terror
+   66  "La dama y el bagavundo.jpg" "Yo antesd de ti.xls" "Que paso ayer.pdf" "We will rock you.js"
+   67  ls
+   68  ls
+   69  touch "La dama y el bagavundo.png" "Yo antes de ti.xls" "Que paso ayer.pdf" "We will rock you.js"
+   70  ls
+   71  cd ../Comedia
+   72  touch Madagaskar.js "Orgullo y prejuicio.txt" IT.xls "Mision imposible.png"
+   73  ls
+   74  cd ../Romantica
+   75  touch Pocahontas.jpg Annabelle.js "Los vengadores.js" "La mascara.js"
+   76  ls
+   77  ls
+   78  mv Pocahontas.jpg Annabelle.js Los\ vengadores.js La\ mascara.js ~/OneDrive/Escritorio/DH/Peliculas/Romanticas
+   79  ls
+   80  cd ../Romanticas
+   81  ls
+   82  cd ../Accion
+   83  ls
+   84  cd ../Infantiles
+   85  ls
+   86  cd ../Accion
+   87  ls
+   88  cd ../Terror
+   89  ls
+   90  cd ../Comedia
+   91  ls
+   92  cd ../Romanticas
+   93  ls
+   94  cd ..
+   95  pwd
+   96  cd ..
+   97  pwd
+   98  ls
+   99  cd ../Peliculas
+  100  cd ../Peliculas
+  101  pwd
+  102  cd Peliculas
+  103  ls
+  104  ls -R
+  105  cd ..
+  106  mkdir ~/OneDrive/Escritorio/DH/Peliculas/Romanticas Prueba
+  107   mkdir ~/OneDrive/Escritorio/DH/Peliculas/Romanticas/Prueba
+  108  cd Peliculas/Romanticas/Prueba/
+  109  cd ..
+  110  mkdir ~/OneDrive/Escritorio/DH/Peliculas/Accion/Prueba2
+  111  cd ..
+  112  cd Accion
+  113  clear
+  114  git --version
+  115  git --version
+  116  git --version
+  117  git init
+  118  ls -a
+  119  mkdir carpeta prueba
+  120  ls
+  121  clear
+  122  mkdir "carpeta prueba"
+  123  cd "carpeta prueba"
+  124  git init
+  125  touch app.js
+  126  ls
+  127  git status
+  128  git add app.js
+  129  git status
+  130  clear
+  131  cd  ~/OneDrive/Escritorio
+  132  mkdir mercadoAbierto
+  133  cd mercadoAbierto
+  134  git init
+  135  touch productos.js
+  136  ls
+  137  git status
+  138  git add productos.js
+  139  git status
+  140  git commit -m "mi primer commit"
+  141  git status
+  142  git config user.name "yaniravenegas"
+  143  git config user.email "ynra.venegas@gmail.com"
+  144  git commit -m "mi primer commit"
+  145  git status
+  146  git init
+  147  git config user.name"yaniravenegas"
+  148  git config user.email"ynra.venegas@gmail.com"
+  149  git remot add origin ^[[200~https://github.com/yaniravenegas/clase-4.git~
+  150  git remote add origin ^[[200~https://github.com/yaniravenegas/clase-4.git~
+  151  git remote -v
+  152  git clone https://github.com/yaniravenegas/clase-4.git
+  153  git clone https://github.com/yaniravenegas/clase-4.git
+  154  cd clase-4
+  155  touch app.js
+  156  git status
+  157  git add app.js
+  158  git status
+  159  git commit -m "mi primer commit"
+  160  git config --global user.name "yaniravenegas"
+  161  git config --global user.email "ynra.venegas@gmail.com"
+  162  git commit -m "mi primer commit"
+  163  git status
+  164  git push origin main
+  165  git push
+  166  git push
+  167  git push origin main
+  168  git clone https://github.com/yaniravenegas/prueba.git
+  169  cd prueba
+  170  touch app.js
+  171  git status
+  172  git add app.js
+  173  git status
+  174  mkdir ecommerce
+  175  cd ecommerce
+  176  touch app.js
+  177  touch config.js
+  178  mkdir db
+  179  git init
+  180  git add .
+  181  git commit -m "primer commit"
+  182  cd db/
+  183  touch producto_db.js
+  184  touch carrito_db.js
+  185  cd ..
+  186  git commit -m "guardando lo importante"
+  187  git add .
+  188  git commit -m "guardando una parte del proyecto"
+  189  cd db
+  190  rm producto_db.js
+  191  git restore .
+  192  rm ../config.js
+  193  pwd
+  194  git add .
+  195  git commit -m "sacando la condiguración"
+  196  git add -A
+  197  git commit -m "arreglando el error"
+  198  clear
+  199  cd ..
+  200  cd..
+  201  cd ..
+  202  cd ..
+  203  cd ..
+  204  pwd
+  205  cd Escritorio
+  206  git clone https://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@github.com/lpasteris/camada03.git
+  207  cd camada03
+  208  ls
+  209  ls
+  210  ls
+  211  git pull origin mainclear
+  212  clear
+  213  git clone origin main
+  214  git clone https://github.com/yaniravenegas/camada-03.git
+  215  clear
+  216  git clone https://github.com/yaniravenegas/camada-03.git
+  217  git add .
+  218  git init
+  219  cd camada-03
+  220  git add .
+  221  git commit -m "paso 3"
+  222  git push origin main
+  223  git add .
+  224  git commit -m "Agregando index.html"
+  225  git status
+  226  git push origin main
+  227  git pull origin main
+  228  git pull origin main
+  229  git add .
+  230  git commit "Modificando linea 10"
+  231  git commit -m "Modificando linea 10"
+  232  git push origin main
+  233  git pull origin main
+  234  git branch yanira
+  235  git checkout yanira
+  236  touch index2.html
+  237  git push origin yanira
+  238  git add .
+  239  git commit "Se crea archivo en rama yanira"
+  240  git commit -m "se crea archivo en rama yanira"
+  241  git push origin yanira
+  242  git chekcout matias
+  243  git checkout origin matias
+  244  git pull origin matias
+  245  git checkout matias
+  246  touch nuevoarchivo.js
+  247  git add .
+  248  git commit -m "agregando archivo nuevoarchivo.js"
+  249  git push origin matias
+  250  git checkout yanira
+  251  git merge matias
+  252  git checkout yanira
+  253  git pull origin yanira
+  254  git push origin yanira
+  255  mkdir Checkpoint-YaniraVenegas
+  256  cd Checkpoint-YaniraVenegas
+  257  git init
+  258  git remote add origin https://github.com/yaniravenegas/Checkpoint-YaniraVenegas.git
+  259  touch main.js index.html
+  260  ls
+  261  git add .
+  262  git commit -m "commit 01 de YaniraVenegas"
+  263  git branch feature
+  264  git checkout feature
+  265  mkdir Hardware Software SeguridadInformatica
+  266  ls
+  267  cd Hardware
+  268  touch resumen.txt
+  269  ls
+  270  cd ..
+  271  cd SeguridadInformatica
+  272  touch resumen.txt
+  273  ls
+  274  cd ..
+  275  cd Software
+  276  touch resumen.txt
+  277  ls
+  278  cd ..
+  279  git config user.name YaniraVenegas
+  280  git config user.email ynra.venegas@gmail.com
+  281  git push -u origin feature
+  282  git checkout main
+  283  ls
+  284  mv main.js resumenHardware.txt
+  285  mv index.html resumenSoftware.txt
+  286  ls
+  287  echo "Ejemplo 1: Microsoft Word" >> resumenSoftware.txt
+  288  echo "Ejemplo 2: Adobe Photoshop" >> resumenSoftware.txt
+  289  echo "Ejemplo 3: Mozilla Firefox" >> resumenSoftware.txt
+  290  cd resumenSoftware.txt
+  291  cat resumenSoftware.txt
+  292  echo "Ejemplo 1: RAM" >> resumenHardware.txt
+  293  echo "Ejemplo 2: ROM" >> resumenHardware.txt
+  294  echo "Ejemplo 3: Memoria Cache" >> resumenHardware.txt
+  295  cat resumenHardware.txt
+  296  touch comandos.txt
+  297  ls
+  298  git log
+  299  history
+  300  history > comandos.txt
